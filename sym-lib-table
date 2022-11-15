@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "A000066")(type "Legacy")(uri "${KIPRJMOD}/LIBS/symbols/A000066.lib")(options "")(descr ""))
+  (lib (name "CMM-3722AT-42116-TR")(type "Legacy")(uri "${KIPRJMOD}/LIBS/symbols/CMM-3722AT-42116-TR.lib")(options "")(descr ""))
+  (lib (name "DRV8833RTYT")(type "Legacy")(uri "${KIPRJMOD}/LIBS/symbols/DRV8833RTYT.lib")(options "")(descr ""))
+  (lib (name "NAU8810YG")(type "Legacy")(uri "${KIPRJMOD}/LIBS/symbols/NAU8810YG.lib")(options "")(descr ""))
+  (lib (name "CMM-4030D-261-I2S-TR")(type "Legacy")(uri "${KIPRJMOD}/LIBS/symbols/CMM-4030D-261-I2S-TR.lib")(options "")(descr ""))
+)
