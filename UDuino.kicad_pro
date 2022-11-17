@@ -458,6 +458,10 @@
     [
       "2996dca5-8bd5-45fb-860a-0c533c5b647e",
       "Power 5V"
+    ],
+    [
+      "4be40dc7-7b7f-4450-a81a-942b35e1cccf",
+      "Power 3V3"
     ]
   ],
   "text_variables": {}
