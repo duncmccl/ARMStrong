@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.19999999999999998
         }
       },
       "diff_pair_dimensions": [
@@ -475,11 +475,7 @@
           "/SAI1_FS_A",
           "/SAI1_SCK_A",
           "/SAI1_SD_A",
-          "/SIA1_FS_A",
-          "/SIA1_SCK__A",
-          "/SIA1_SD_A",
           "/SIA1_SD_B",
-          "/SIA_SD_B",
           "/SPI3_MISO",
           "/SPI3_MOSI",
           "/SPI3_SCK",
@@ -497,7 +493,6 @@
           "/Speaker Left/GAIN",
           "/UART4_RX",
           "/UART4_TX",
-          "/USB_DM",
           "/USB_DN",
           "/USB_DP",
           "Net-(C301-Pad2)",
