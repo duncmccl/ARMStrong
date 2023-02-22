@@ -520,7 +520,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f72b8d5d-c1ec-434d-946e-9833e6ce0896)
     (property "Reference" "P1401" (id 0) (at 104.14 57.15 0))
-    (property "Value" "USB_C_Plug" (id 1) (at 104.14 59.69 0))
+    (property "Value" "USB4105-GF-A" (id 1) (at 104.14 59.69 0))
     (property "Footprint" "Connector_USB:USB_C_Receptacle_Palconn_UTC16-G" (id 2) (at 107.95 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )

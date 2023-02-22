@@ -4034,7 +4034,7 @@
     (property "Reference" "S101" (id 0) (at 58.42 132.0799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "PTS636_SM43_SMTR_LFS" (id 1) (at 58.42 134.6199 0)
+    (property "Value" "PTS636 SM43 SMTR LFS" (id 1) (at 58.42 134.6199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "PTS636SM43SMTRLFS" (id 2) (at 58.42 129.54 0)
@@ -5275,7 +5275,7 @@
     (property "Reference" "S102" (id 0) (at 62.23 157.4799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "PTS636_SM43_SMTR_LFS" (id 1) (at 62.23 160.0199 0)
+    (property "Value" "PTS636 SM43 SMTR LFS" (id 1) (at 62.23 160.0199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "PTS636SM43SMTRLFS" (id 2) (at 62.23 154.94 0)
@@ -6274,7 +6274,7 @@
       (reference "MK601") (unit 1) (value "CMM-4030D-261-I2S-TR") (footprint "Custom:MIC_CMM-4030D-261-I2S-TR")
     )
     (path "/0b8a300d-cb05-4f08-95a6-62c312199468/f72b8d5d-c1ec-434d-946e-9833e6ce0896"
-      (reference "P1401") (unit 1) (value "USB_C_Plug") (footprint "Connector_USB:USB_C_Receptacle_Palconn_UTC16-G")
+      (reference "P1401") (unit 1) (value "USB4105-GF-A") (footprint "Connector_USB:USB_C_Receptacle_Palconn_UTC16-G")
     )
     (path "/74114fa7-3930-46b1-8d47-2b12a2f25cb0/a3c26ba8-ef7e-4a30-abe2-d3286603d2cc"
       (reference "Q901") (unit 1) (value "SMMBT4403LT1G") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -6415,10 +6415,10 @@
       (reference "RV1101") (unit 1) (value "100k") (footprint "Custom:TRIM_3352T-1-104LF")
     )
     (path "/426d3cfd-42d6-4600-b624-6c5b46037cf9"
-      (reference "S101") (unit 1) (value "PTS636_SM43_SMTR_LFS") (footprint "PTS636SM43SMTRLFS")
+      (reference "S101") (unit 1) (value "PTS636 SM43 SMTR LFS") (footprint "PTS636SM43SMTRLFS")
     )
     (path "/ff45ee6e-ca17-4876-b21a-fa98aeb33420"
-      (reference "S102") (unit 1) (value "PTS636_SM43_SMTR_LFS") (footprint "PTS636SM43SMTRLFS")
+      (reference "S102") (unit 1) (value "PTS636 SM43 SMTR LFS") (footprint "PTS636SM43SMTRLFS")
     )
     (path "/789c7c0c-b213-4b21-a8c6-519557a78601/3b492ba7-fefe-4ac7-abed-7e2ef82dee46"
       (reference "S701") (unit 1) (value "EG1218") (footprint "EG1218")
@@ -6445,19 +6445,19 @@
       (reference "S708") (unit 1) (value "EG1218") (footprint "EG1218")
     )
     (path "/ec0f2664-2bbf-448f-addb-bf6ed0854f7f/96a58eed-825b-4f44-9c9c-466c94c2861a"
-      (reference "S1001") (unit 1) (value "PTS636_SM43_SMTR_LFS") (footprint "Custom:PTS636SM43SMTRLFS")
+      (reference "S1001") (unit 1) (value "PTS636 SM43 SMTR LFS") (footprint "PTS636SM43SMTRLFS")
     )
     (path "/ec0f2664-2bbf-448f-addb-bf6ed0854f7f/c77c7a10-7562-47af-a401-a49fe2dddd12"
-      (reference "S1002") (unit 1) (value "PTS636_SM43_SMTR_LFS") (footprint "PTS636SM43SMTRLFS")
+      (reference "S1002") (unit 1) (value "PTS636 SM43 SMTR LFS") (footprint "PTS636SM43SMTRLFS")
     )
     (path "/ec0f2664-2bbf-448f-addb-bf6ed0854f7f/fb5206d6-0dc6-4f3b-b464-7d90f8c7ac35"
-      (reference "S1003") (unit 1) (value "PTS636_SM43_SMTR_LFS") (footprint "PTS636SM43SMTRLFS")
+      (reference "S1003") (unit 1) (value "PTS636 SM43 SMTR LFS") (footprint "PTS636SM43SMTRLFS")
     )
     (path "/ec0f2664-2bbf-448f-addb-bf6ed0854f7f/9e1a719b-230c-4f4e-90d3-c3b30fb05c66"
-      (reference "S1004") (unit 1) (value "PTS636_SM43_SMTR_LFS") (footprint "PTS636SM43SMTRLFS")
+      (reference "S1004") (unit 1) (value "PTS636 SM43 SMTR LFS") (footprint "PTS636SM43SMTRLFS")
     )
     (path "/ec0f2664-2bbf-448f-addb-bf6ed0854f7f/0383183f-546e-46ed-83d9-da8bd5caaf4f"
-      (reference "S1005") (unit 1) (value "PTS636_SM43_SMTR_LFS") (footprint "PTS636SM43SMTRLFS")
+      (reference "S1005") (unit 1) (value "PTS636 SM43 SMTR LFS") (footprint "PTS636SM43SMTRLFS")
     )
     (path "/f342b15e-991f-4399-a302-377e00e18460"
       (reference "U101") (unit 1) (value "STM32F072VBTx") (footprint "Package_QFP:LQFP-100_14x14mm_P0.5mm")

@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>D:\KiCAD Projects\ARMStrong\UDuino.kicad_sch</source>
-    <date>2/20/2023 2:43:20 PM</date>
+    <date>2/22/2023 5:00:38 PM</date>
     <tool>Eeschema (6.0.9)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -433,7 +433,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="UDuino.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>ea212af8-9aec-49f5-8264-7a10bb71589e e12ac4c3-ac7b-4418-904f-38e881049503 82039b22-59f6-40f0-9d39-849b4516d075</tstamps>
+      <tstamps>e12ac4c3-ac7b-4418-904f-38e881049503 ea212af8-9aec-49f5-8264-7a10bb71589e 82039b22-59f6-40f0-9d39-849b4516d075</tstamps>
     </comp>
     <comp ref="J101">
       <value>Barrel_Jack</value>
@@ -535,7 +535,7 @@
       <tstamps>f2b4f460-14a1-4287-a402-6920f3440d81</tstamps>
     </comp>
     <comp ref="S101">
-      <value>PTS636_SM43_SMTR_LFS</value>
+      <value>PTS636 SM43 SMTR LFS</value>
       <footprint>PTS636SM43SMTRLFS</footprint>
       <datasheet>https://componentsearchengine.com/Datasheets/1/PTS636 SM43 SMTR LFS.pdf</datasheet>
       <fields>
@@ -559,7 +559,7 @@
       <tstamps>426d3cfd-42d6-4600-b624-6c5b46037cf9</tstamps>
     </comp>
     <comp ref="S102">
-      <value>PTS636_SM43_SMTR_LFS</value>
+      <value>PTS636 SM43 SMTR LFS</value>
       <footprint>PTS636SM43SMTRLFS</footprint>
       <datasheet>https://componentsearchengine.com/Datasheets/1/PTS636 SM43 SMTR LFS.pdf</datasheet>
       <fields>
@@ -1825,7 +1825,7 @@
       <tstamps>96a58eed-825b-4f44-9c9c-466c94c2861a</tstamps>
     </comp>
     <comp ref="S1002">
-      <value>PTS636_SM43_SMTR_LFS</value>
+      <value>PTS636 SM43 SMTR LFS</value>
       <footprint>PTS636SM43SMTRLFS</footprint>
       <datasheet>https://componentsearchengine.com/Datasheets/1/PTS636 SM43 SMTR LFS.pdf</datasheet>
       <fields>
@@ -1849,7 +1849,7 @@
       <tstamps>c77c7a10-7562-47af-a401-a49fe2dddd12</tstamps>
     </comp>
     <comp ref="S1003">
-      <value>PTS636_SM43_SMTR_LFS</value>
+      <value>PTS636 SM43 SMTR LFS</value>
       <footprint>PTS636SM43SMTRLFS</footprint>
       <datasheet>https://componentsearchengine.com/Datasheets/1/PTS636 SM43 SMTR LFS.pdf</datasheet>
       <fields>
@@ -1873,7 +1873,7 @@
       <tstamps>fb5206d6-0dc6-4f3b-b464-7d90f8c7ac35</tstamps>
     </comp>
     <comp ref="S1004">
-      <value>PTS636_SM43_SMTR_LFS</value>
+      <value>PTS636 SM43 SMTR LFS</value>
       <footprint>PTS636SM43SMTRLFS</footprint>
       <datasheet>https://componentsearchengine.com/Datasheets/1/PTS636 SM43 SMTR LFS.pdf</datasheet>
       <fields>
@@ -1897,7 +1897,7 @@
       <tstamps>9e1a719b-230c-4f4e-90d3-c3b30fb05c66</tstamps>
     </comp>
     <comp ref="S1005">
-      <value>PTS636_SM43_SMTR_LFS</value>
+      <value>PTS636 SM43 SMTR LFS</value>
       <footprint>PTS636SM43SMTRLFS</footprint>
       <datasheet>https://componentsearchengine.com/Datasheets/1/PTS636 SM43 SMTR LFS.pdf</datasheet>
       <fields>
@@ -2170,7 +2170,7 @@
       <tstamps>e5e862e7-3308-45e4-b669-1c8aee5ca667</tstamps>
     </comp>
     <comp ref="P1401">
-      <value>USB_C_Plug</value>
+      <value>USB4105-GF-A</value>
       <footprint>Connector_USB:USB_C_Receptacle_Palconn_UTC16-G</footprint>
       <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
       <libsource lib="Connector" part="USB_C_Plug" description="USB Type-C Plug connector"/>
